@@ -11,6 +11,7 @@ numpy = "*"
 screeninfo = "*"
 pytesseract = "*"
 PyDirectInput = "*"
+pywin32 = "*"
 
 [dev-packages]
 
